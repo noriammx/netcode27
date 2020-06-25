@@ -8,7 +8,13 @@ En este repositorio encontraras los códigos de ejemplo de cada una de las sesio
 
 # Sesiones
 
-- #### Sesión 0
+- #### Sesión 00
 Códigos de ejemplo entre las diferencias entre .Net Framework, .Net Core y .Net Standard
+
+- #### Sesión 01
+1. Introducción a Visual Studio Community 2019
+2. Introducción a Visual Studio Code
+3. Introducción a C#
+
 
 
