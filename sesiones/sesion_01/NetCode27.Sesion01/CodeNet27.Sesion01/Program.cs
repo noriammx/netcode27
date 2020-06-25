@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ImageToASCCIConverter;
+using System;
 
 namespace CodeNet27.Sesion01
 {
@@ -8,15 +9,16 @@ namespace CodeNet27.Sesion01
     {
         static void Main(string[] args)
         {
+            ServiceLogoNetCode27 service = new ServiceLogoNetCode27();
+            service.PrintLogo();
+
             int numero1 = 10;
             int numero2 = 2;
             int numero3 = 5;
+            
 
-            int sumaNumeros = numero1 + numero2 + numero3;
-
-            Console.WriteLine("Hola Comunidad .NetCode27");
+            int sumaNumeros = numero3 + numero2 + numero3;           
             Console.WriteLine("Resultado = " + sumaNumeros);
-            Console.ReadKey();
         }
     }
 }

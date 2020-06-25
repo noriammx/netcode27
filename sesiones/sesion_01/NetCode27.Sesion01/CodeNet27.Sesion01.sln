@@ -3,33 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio01", "CodeNet27.Sesion01\CodeNet27.Sesion01.Ejercicio01.csproj", "{A68494EA-8353-4ED5-8B9F-61BD761C4EBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeNet27.Sesion01.Ejercicio01", "CodeNet27.Sesion01\CodeNet27.Sesion01.Ejercicio01.csproj", "{A68494EA-8353-4ED5-8B9F-61BD761C4EBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio02", "CodeNet27.Sesion01.Ejercicio02\CodeNet27.Sesion01.Ejercicio02.csproj", "{D905957F-D686-4261-A5F0-A5E6CC8D49BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeNet27.Sesion01.Ejercicio02", "CodeNet27.Sesion01.Ejercicio02\CodeNet27.Sesion01.Ejercicio02.csproj", "{D905957F-D686-4261-A5F0-A5E6CC8D49BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio03", "CodeNet27.Sesion01.Ejercicio03\CodeNet27.Sesion01.Ejercicio03.csproj", "{B80690C4-121D-44D4-B3B4-1C747FB04FB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeNet27.Sesion01.Ejercicio03", "CodeNet27.Sesion01.Ejercicio03\CodeNet27.Sesion01.Ejercicio03.csproj", "{B80690C4-121D-44D4-B3B4-1C747FB04FB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio04", "CodeNet27.Sesion01.Ejercicio04\CodeNet27.Sesion01.Ejercicio04.csproj", "{71181C3A-340A-498A-BAA7-F32F26724A4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeNet27.Sesion01.Ejercicio04", "CodeNet27.Sesion01.Ejercicio04\CodeNet27.Sesion01.Ejercicio04.csproj", "{71181C3A-340A-498A-BAA7-F32F26724A4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio05", "CodeNet27.Sesion01.Ejercicio05\CodeNet27.Sesion01.Ejercicio05.csproj", "{6CE26488-0A10-4CBC-8A70-11D2C1BFCAEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeNet27.Sesion01.Ejercicio05", "CodeNet27.Sesion01.Ejercicio05\CodeNet27.Sesion01.Ejercicio05.csproj", "{6CE26488-0A10-4CBC-8A70-11D2C1BFCAEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio06", "CodeNet27.Sesion01.Ejercicio06\CodeNet27.Sesion01.Ejercicio06.csproj", "{2C301350-EAE8-4500-B10D-AF72F7B20B76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeNet27.Sesion01.Ejercicio06", "CodeNet27.Sesion01.Ejercicio06\CodeNet27.Sesion01.Ejercicio06.csproj", "{2C301350-EAE8-4500-B10D-AF72F7B20B76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio07", "CodeNet27.Sesion01.Ejercicio07\CodeNet27.Sesion01.Ejercicio07.csproj", "{CD0B6337-B9F0-4EB9-9B2F-D2B937413A8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeNet27.Sesion01.Ejercicio07", "CodeNet27.Sesion01.Ejercicio07\CodeNet27.Sesion01.Ejercicio07.csproj", "{CD0B6337-B9F0-4EB9-9B2F-D2B937413A8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio08", "CodeNet27.Sesion01.Ejercicio08\CodeNet27.Sesion01.Ejercicio08.csproj", "{2266C348-BE24-4ABD-A084-2195C57F09D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeNet27.Sesion01.Ejercicio08", "CodeNet27.Sesion01.Ejercicio08\CodeNet27.Sesion01.Ejercicio08.csproj", "{2266C348-BE24-4ABD-A084-2195C57F09D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio09", "CodeNet27.Sesion01.Ejercicio09\CodeNet27.Sesion01.Ejercicio09.csproj", "{F47FBC0E-A37E-4097-8999-7049837B6B7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeNet27.Sesion01.Ejercicio09", "CodeNet27.Sesion01.Ejercicio09\CodeNet27.Sesion01.Ejercicio09.csproj", "{F47FBC0E-A37E-4097-8999-7049837B6B7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio10", "CodeNet27.Sesion01.Ejercicio10\CodeNet27.Sesion01.Ejercicio10.csproj", "{4639A46B-FFBB-468A-8F22-4BF08B6E8E33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeNet27.Sesion01.Ejercicio10", "CodeNet27.Sesion01.Ejercicio10\CodeNet27.Sesion01.Ejercicio10.csproj", "{4639A46B-FFBB-468A-8F22-4BF08B6E8E33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio11", "CodeNet27.Sesion01.Ejercicio11\CodeNet27.Sesion01.Ejercicio11.csproj", "{78465871-9B15-4C5B-B8E0-B3F4CFF19140}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeNet27.Sesion01.Ejercicio11", "CodeNet27.Sesion01.Ejercicio11\CodeNet27.Sesion01.Ejercicio11.csproj", "{78465871-9B15-4C5B-B8E0-B3F4CFF19140}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio12", "CodeNet27.Sesion01.Ejercicio12\CodeNet27.Sesion01.Ejercicio12.csproj", "{18113121-DECA-435F-B9A4-EEB3201B8494}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeNet27.Sesion01.Ejercicio12", "CodeNet27.Sesion01.Ejercicio12\CodeNet27.Sesion01.Ejercicio12.csproj", "{18113121-DECA-435F-B9A4-EEB3201B8494}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio13", "CodeNet27.Sesion01.Ejercicio13\CodeNet27.Sesion01.Ejercicio13.csproj", "{DC445E66-35E7-4F3B-962E-F4D28A307C02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeNet27.Sesion01.Ejercicio13", "CodeNet27.Sesion01.Ejercicio13\CodeNet27.Sesion01.Ejercicio13.csproj", "{DC445E66-35E7-4F3B-962E-F4D28A307C02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio14", "CodeNet27.Sesion01.Ejercicio14\CodeNet27.Sesion01.Ejercicio14.csproj", "{3F15F115-C1B7-49C5-BC0C-1839BD521D4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeNet27.Sesion01.Ejercicio14", "CodeNet27.Sesion01.Ejercicio14\CodeNet27.Sesion01.Ejercicio14.csproj", "{3F15F115-C1B7-49C5-BC0C-1839BD521D4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageToASCCIConverter", "..\..\..\..\funnystuffs\ImageToASCCIConverter\ImageToASCCIConverter\ImageToASCCIConverter.csproj", "{5B7D782F-87DD-47B8-9F2A-C09B380676FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeNet27.Sesion01.Ejercicio00", "CodeNet27.Sesion01.Ejercicio00\CodeNet27.Sesion01.Ejercicio00.csproj", "{D91E3C03-F4AE-4317-A4E9-C52D1899D545}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{3F15F115-C1B7-49C5-BC0C-1839BD521D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F15F115-C1B7-49C5-BC0C-1839BD521D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F15F115-C1B7-49C5-BC0C-1839BD521D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7D782F-87DD-47B8-9F2A-C09B380676FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7D782F-87DD-47B8-9F2A-C09B380676FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7D782F-87DD-47B8-9F2A-C09B380676FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7D782F-87DD-47B8-9F2A-C09B380676FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91E3C03-F4AE-4317-A4E9-C52D1899D545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91E3C03-F4AE-4317-A4E9-C52D1899D545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91E3C03-F4AE-4317-A4E9-C52D1899D545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91E3C03-F4AE-4317-A4E9-C52D1899D545}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
