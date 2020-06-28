@@ -24,9 +24,9 @@ Códigos de ejemplo entre las diferencias entre .Net Framework, .Net Core y .Net
 1. Explicación que son los Web APIS
 2. Proyecto ejemplo de un Web API con ASP Net Core sin conexión a la BD
 
-- #### Sesión 03 - Entity Framework (Continuación de la sesión 03)
+- #### Sesión 04 - Entity Framework (Continuación de la sesión 03)
 1. Explicación que es Entity Framework
-2. Conectar el Web API de la sesión 02 con una base de datos
+2. Conectar el Web API de la sesión 03 con una base de datos
 
 
 
