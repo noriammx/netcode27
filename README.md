@@ -44,7 +44,7 @@ Vídeo: -Subiendo-
 2. Explicación ¿Qué es Microsoft Azure?
 3. Ejercicio: desplegar base de datos y Web API en Microsoft Azure
 
-Vídeo: -Subiendo-
+Vídeo: https://web.facebook.com/noriam.mx/videos/3676234375734659/
 
 
 
