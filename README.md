@@ -37,6 +37,8 @@ Vídeo: https://web.facebook.com/noriam.mx/videos/3635813249776772/
 1. Explicación que es Entity Framework
 2. Ejercicio: Conectar el Web API de la sesión 03 con una base de datos
 
+Vídeo: https://web.facebook.com/noriam.mx/videos/3707583352599761/
+
 Vídeo: -Subiendo-
 
 - #### Sesión 05 - Microsoft Azure (Continuación de la sesión 04)
