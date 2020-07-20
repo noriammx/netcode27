@@ -36,6 +36,7 @@ Vídeo: https://web.facebook.com/noriam.mx/videos/3635813249776772/
 - #### Sesión 04 - Entity Framework (Continuación de la sesión 03)
 1. Explicación que es Entity Framework
 2. Ejercicio: Conectar el Web API de la sesión 03 con una base de datos
+3. Configurar una cadena de conexión SQL Server: https://www.connectionstrings.com/sql-server/
 
 Vídeo: https://web.facebook.com/noriam.mx/videos/3707583352599761/
 
