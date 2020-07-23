@@ -1,0 +1,44 @@
+﻿@model MiPrimerAppWeb.Models.PersonaViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Lista de Personas</h1>
+
+<div>
+    <hr />
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Apellido Paterno</th>
+                <th scope="col">Apellido Materno</th>
+                <th scope="col">Edad</th>
+                <th scope="col">Eliminar</th>
+                <th scope="col">Actualizar</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.personas)
+            {
+                <tr>
+                    <th scope="row">@item.Id</th>
+                    <td>@item.Nombre</td>
+                    <td>@item.ApPaterno</td>
+                    <td>@item.ApMaterno</td>
+                    <td>@item.Edad</td>
+                    <td></td>
+
+                    <td></td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+
+</div>
+

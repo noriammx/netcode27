@@ -1,0 +1,65 @@
+﻿@model MiPrimerAppWeb.Models.PersonaViewModel
+@{
+    ViewData["Title"] = "Buscar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Buscar</h1>
+
+<div>
+
+    <hr />
+
+    @using (Html.BeginForm())
+    {
+        <div class="form-group">
+            <label for="id">Id:</label>
+            <input type="text" name="id" class="form-control" id="exampleInputEmail1" placeholder="Introduzca el ID">
+            <small id="emailHelp" class="form-text text-muted">Introduzca un ID.</small>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    }
+
+    <hr />
+
+    @if (Model.persona != null)
+    {
+        <h3>Resultado:</h3>
+
+        <form>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Id: </label>
+                <input disabled type="text" class="form-control" value="@Model.persona.Id">
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputEmail1">Nombre: </label>
+                <input disabled type="text" class="form-control" value="@Model.persona.Nombre">
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputEmail1">Apellido Paterno: </label>
+                <input disabled type="text" class="form-control" value="@Model.persona.ApPaterno">
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputEmail1">Apellido Materno: </label>
+                <input disabled type="text" class="form-control" value="@Model.persona.ApMaterno">
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputEmail1">Edad: </label>
+                <input disabled type="text" class="form-control" value="@Model.persona.Edad">
+            </div>
+
+
+
+        </form>
+    }
+
+
+
+
+</div>
+
