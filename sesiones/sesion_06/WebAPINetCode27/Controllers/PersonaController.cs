@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using WebAPINetCode27.Model;
@@ -9,10 +10,13 @@ using WebAPINetCode27.ModelDB;
 
 namespace WebAPINetCode27.Controllers
 {
+    [EnableCors("AllowMyOrigin")]
     [Route("api/[controller]")]
     [ApiController]
     public class PersonaController : ControllerBase
     {
+
+        [EnableCors("AllowMyOrigin")]
         // GET: api/Persona
         [HttpGet]
         public IEnumerable<PersonaDTO> Get()
@@ -41,6 +45,7 @@ namespace WebAPINetCode27.Controllers
             return personas;
         }
 
+        [EnableCors("AllowMyOrigin")]
         // GET: api/Persona/5
         [HttpGet("{id}", Name = "Get")]
         public PersonaDTO Get(int id)
@@ -64,6 +69,7 @@ namespace WebAPINetCode27.Controllers
 
         }
 
+        [EnableCors("AllowMyOrigin")]
         // POST: api/Persona
         [HttpPost]
         public string Post([FromBody] PersonaDTO value)
@@ -84,6 +90,7 @@ namespace WebAPINetCode27.Controllers
             return ";) todo ok";
         }
 
+        [EnableCors("AllowMyOrigin")]
         // PUT: api/Persona/5
         [HttpPut("{id}")]
         public string Put(int id, [FromBody] PersonaDTO value)
@@ -104,6 +111,7 @@ namespace WebAPINetCode27.Controllers
 
         }
 
+        [EnableCors("AllowMyOrigin")]
         // DELETE: api/ApiWithActions/5
         [HttpDelete("{id}")]
         public void Delete(int id)
