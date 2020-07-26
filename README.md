@@ -56,12 +56,15 @@ Vídeo: https://web.facebook.com/noriam.mx/videos/3676234375734659/
 4.- Esta sesión continuará con la parte práctica el 22 de Julio de 2020
 
 Part I: Hablamos de toda la teoría, hablamos de ¿Cómo hackear precios en una página web?
+
 Vídeo parte I: https://web.facebook.com/noriam.mx/videos/3696462133711883
 
 Parte II: Mostrar como crear una aplicación Web ASP Net Core MVC desde cero
+
 Vídeo parte II: https://web.facebook.com/noriam.mx/videos/3716969261661170/
 
 Parte III: Completar la aplicación Web con las funciones para eliminar y actualizar
+
 Vídeo parte III: En construcción
 
 
