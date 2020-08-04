@@ -74,8 +74,8 @@ Vídeo parte III: https://facebook.com/noriam.mx/videos/3727829700575126/
 
 Prerrequisitos (antes de hacer el ejercicio necesitan esto): https://youtu.be/GPHugWJNyl0 
 
-Vídeo parte I: 
-
+Vídeo Facebook parte I: https://facebook.com/noriam.mx/videos/3753772901314139/
+Vídeo Youtube parte I:https://youtu.be/BYLIqj3B_4w
 
 
 
