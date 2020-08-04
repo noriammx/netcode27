@@ -49,7 +49,7 @@ Vídeo: -Subiendo-
 
 Vídeo: https://facebook.com/noriam.mx/videos/3676234375734659/
 
-- #### Sesión 06, 07 - Aplicaciones Web con ASP.Net Core MVC (Recuerden todas la sesiones vienen hiladas)
+- #### Sesión 06 y 07 - Aplicaciones Web con ASP.Net Core MVC (Recuerden todas la sesiones vienen hiladas)
 1. Explicación de las aplicaciones Web (¿Qué son?, ASP NET MVC, RIA, REACT, ANGULAR, VIEW, OTROS)
 2. ¿Qué es MVC?
 3. Ejercicio: Crear aplicación Web Con ASP.NET Core MVC consumiendo un Web API (se hará en la próxima sesión)
@@ -66,6 +66,13 @@ Vídeo parte II: https://facebook.com/noriam.mx/videos/3716969261661170/
 Parte III: Completar la aplicación Web con las funciones para eliminar y actualizar
 
 Vídeo parte III: https://facebook.com/noriam.mx/videos/3727829700575126/  
+
+- #### Sesión 08 - Construye tu primer robot con RPA y UIPATH
+1. ¿Qué es la industria 4.0?
+2. ¿Qué es RPA?
+3. Ejercicio: Construcción de un robot con UIPATH
+
+Vídeo parte I: 
 
 
 
