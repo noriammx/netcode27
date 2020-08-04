@@ -72,6 +72,8 @@ Vídeo parte III: https://facebook.com/noriam.mx/videos/3727829700575126/
 2. ¿Qué es RPA?
 3. Ejercicio: Construcción de un robot con UIPATH
 
+Prerrequisitos (antes de hacer el ejercicio necesitan esto): https://youtu.be/GPHugWJNyl0 
+
 Vídeo parte I: 
 
 
