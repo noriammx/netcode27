@@ -74,8 +74,18 @@ Vídeo parte III: https://facebook.com/noriam.mx/videos/3727829700575126/
 
 Prerrequisitos (antes de hacer el ejercicio necesitan esto): https://youtu.be/GPHugWJNyl0 
 
-Vídeo Facebook parte I: https://facebook.com/noriam.mx/videos/3753772901314139/
-Vídeo Youtube parte I:https://youtu.be/BYLIqj3B_4w
+Vídeo Facebook: https://facebook.com/noriam.mx/videos/3753772901314139/
+Vídeo Youtube:https://youtu.be/BYLIqj3B_4w
+
+
+- #### Sesión 09 - Construye tu primer robot con RPA y UIPATH Parte II
+1. El orquestador de #UIPATH
+2. Funciones del orquestador
+3. ReFramework
+4. Publicando un robot en el orquestador
+
+Vídeo Facebook: https://facebook.com/noriam.mx/videos/3758713590820070/
+Vídeo Youtube: https://youtu.be/XZsOPG6IJws
 
 
 
