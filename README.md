@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/noriammx/netcode27/master/assets/logo.png" alt="Logo" width="100">
 
-# Net Code 27 
+# NetCode 27 
 
 #### Repositorio de códigos de ejemplo para la comunidad .Net Code 27 
 
