@@ -98,9 +98,9 @@ Vídeo Youtube: https://youtu.be/XZsOPG6IJws
 6. ¿Qué es JWT?
 7. Ejemplo práctico: JWT y NetCore
 
-Vídeo Facebook: 
+Vídeo Facebook: https://facebook.com/noriam.mx/videos/3780199245338171/
 
-Vídeo Youtube: 
+Vídeo Youtube: https://youtu.be/COysIgzw5kY
 
 
 
