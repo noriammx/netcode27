@@ -89,5 +89,18 @@ Vídeo Facebook: https://facebook.com/noriam.mx/videos/3758713590820070/
 
 Vídeo Youtube: https://youtu.be/XZsOPG6IJws
 
+- #### Sesión 10 - Web API Segura - Introducción a JSON Web Token Parte I
+1. ¿Qué es la seguridad de las API?
+2. ¿Por qué es importante la seguridad de las API?
+3. ¿Cuáles son las prácticas recomendadas más comunes de la seguridad de las API?
+4. enticación y autorización
+5. Métodos de autentificación API REST
+6. ¿Qué es JWT?
+7. Ejemplo práctico: JWT y NetCore
+
+Vídeo Facebook: 
+
+Vídeo Youtube: 
+
 
 
